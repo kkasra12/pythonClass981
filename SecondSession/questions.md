@@ -43,7 +43,7 @@ now he invented new distance named Bob distance which works like this:
 *output* is a single number showing Bob distance
 
 #### input0
-1000111011
+1000111011\
 1000011110
 
 #### output0
@@ -57,7 +57,7 @@ now he wants to update his coding by changing the indexes:
  **number the index as increasing power of two and sum this new numbers**
  
 #### input0
-kasraaaa
+kasraaaa\
 jasrraae
 
 #### output0
