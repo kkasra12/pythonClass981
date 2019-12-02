@@ -79,7 +79,7 @@ print(myList)
 
 first of all check if you have pip or not
 ```bash
-$ pip3
+$ pip3 --version
 pip 19.3.1 from /usr/local/lib/python3.6/dist-packages/pip (python 3.6)
 ```
 > use `pip` if you have windows
@@ -98,7 +98,7 @@ python -m pip install pip
 ```
 *or:*
 
-1. Download (get-pip.py)[https://bootstrap.pypa.io/get-pip.py] to a folder on your computer.
+1. Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py) to a folder on your computer.
 2. Run that file using python:
 ```bash
 $ python get-pip.py
