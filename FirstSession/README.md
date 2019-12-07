@@ -28,10 +28,11 @@ for i in [1,2,3,4]:
     print(2*i)
 ```
 OUTPUT:
-```1
+```
 2
-3
 4
+6
+8
 ```
 ### question: print 0 to 100 ???
 ```python
