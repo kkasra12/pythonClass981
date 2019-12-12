@@ -63,7 +63,7 @@ think of a given list as `lst` print 1/x for each x in lst if x!=0 and ignore al
 >
 > None is a data that points to nothing :)
 
-``python
+```python
 lst=[1,3,4,6,8,0,None,4,5,5,3]
 ans=[]
 for i in lst:
