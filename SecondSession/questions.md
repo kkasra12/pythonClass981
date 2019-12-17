@@ -1,7 +1,7 @@
 # QUESTION0
 Bob's space button is broken and is misbihaving which inserts several space characters instead of one. Write a program to help him for this problem.
 
-**input** is a string containing several consecutive spaces. 
+**input** is a string containing several consecutive spaces.
 
 **output** Replace this spaces with one single space. Also omit any extra space at the end or start of the string.
 
@@ -16,7 +16,7 @@ Hello my name is Bob.
 # Question1
 Bob wants to know all file extensions used in his computer, hence he has prepared a list containing all of files in his computer. Now help him to find all extensions and print them out.
 
-**input** is a file names (each name in a single line)
+**input** is a file names (each name in a single line and the last line is empty)
 
 **output** print all extensions:
 - extensions must not be duplicated
@@ -29,6 +29,7 @@ Bob wants to know all file extensions used in his computer, hence he has prepare
 > download.jpeg
 >
 > project.DB.first.exe
+>
 
 #### output0
 > txt -- jpeg -- exe
@@ -49,15 +50,15 @@ now he invented new distance named Bob distance which works like this:
 1000011110
 
 #### output0
-15
+23
 
->10+5
+>10+8+5
 
 # Question3
 Bob could send an essay about his *'Bob distance'* to ISI.
 now he wants to update his coding by changing the indexes:
  **number the index as increasing power of two and sum this new numbers**
- 
+
 #### input0
 kasraaaa\
 jasrraae
