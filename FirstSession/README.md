@@ -63,7 +63,7 @@ think of a given list as `lst` print 1/x for each x in lst if x!=0 and ignore al
 >
 > None is a data that points to nothing :)
 
-``python
+```python
 lst=[1,3,4,6,8,0,None,4,5,5,3]
 ans=[]
 for i in lst:
@@ -91,7 +91,7 @@ while True:
 print(sum)
 ```
 
-### question: ask a number from user and write the each in seperate line
+### question: ask a number from user and write the each digit in seperate line
 > idea
 >
 > 256=25*10+6
@@ -134,9 +134,9 @@ look at this cammands executed in REPL
 >>> numbers={1:"one",2:"two",3:"three"}
 >>> print(numbers[1])
 one
->>> print(numbers[1])[1P])3])
+>>> print(numbers[1])
 three
->>> details={"name":"kasra","age":22,"[K"height":1.8,200:500}
+>>> details={"name":"kasra","age":22,"height":1.8,200:500}
 >>> details['name']
 'kasra'
 >>> details.get("name")
