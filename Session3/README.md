@@ -119,7 +119,7 @@ print(n,m)
 #### Define a default value for a specific variable
 ```python
 def log(num,base=10):
-  UPBOUND=1e5
+  UPBOUND=1**5
   sum0=0
   k=1
   xn=num-1
