@@ -134,7 +134,7 @@ look at this cammands executed in REPL
 >>> numbers={1:"one",2:"two",3:"three"}
 >>> print(numbers[1])
 one
->>> print(numbers[1])
+>>> print(numbers[3])
 three
 >>> details={"name":"kasra","age":22,"height":1.8,200:500}
 >>> details['name']
